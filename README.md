@@ -1,1 +1,1 @@
-# password-generator
+This application is a password generator, consisting of HTML, CSS and JavaScript.  It gives the user a random string of characters of a length that they specify. The user also choses wether or not to include lower-case letters, upper-case letters, numbers, and special characters.  
